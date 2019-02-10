@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "fir-app-700d7"
+    "default": "fir-app-700d7",
+    "messenger-app": "messenger-app-58c0e"
   }
 }
